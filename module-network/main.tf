@@ -62,3 +62,8 @@ resource "aws_subnet" "private" {
   }
 
 }
+
+#Create NAT gateway
+#resource "" "" {
+
+#}
